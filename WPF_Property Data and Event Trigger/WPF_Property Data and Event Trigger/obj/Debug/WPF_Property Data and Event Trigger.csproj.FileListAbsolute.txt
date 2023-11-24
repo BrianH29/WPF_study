@@ -1,0 +1,15 @@
+D:\Dev\study\WPF_udemy_lesson\WPF_Property Data and Event Trigger\WPF_Property Data and Event Trigger\bin\Debug\WPF_Property Data and Event Trigger.exe.config
+D:\Dev\study\WPF_udemy_lesson\WPF_Property Data and Event Trigger\WPF_Property Data and Event Trigger\bin\Debug\WPF_Property Data and Event Trigger.exe
+D:\Dev\study\WPF_udemy_lesson\WPF_Property Data and Event Trigger\WPF_Property Data and Event Trigger\bin\Debug\WPF_Property Data and Event Trigger.pdb
+D:\Dev\study\WPF_udemy_lesson\WPF_Property Data and Event Trigger\WPF_Property Data and Event Trigger\obj\Debug\WPF_Property Data and Event Trigger.csproj.AssemblyReference.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_Property Data and Event Trigger\WPF_Property Data and Event Trigger\obj\Debug\MainWindow.g.cs
+D:\Dev\study\WPF_udemy_lesson\WPF_Property Data and Event Trigger\WPF_Property Data and Event Trigger\obj\Debug\App.g.cs
+D:\Dev\study\WPF_udemy_lesson\WPF_Property Data and Event Trigger\WPF_Property Data and Event Trigger\obj\Debug\WPF_Property Data and Event Trigger_MarkupCompile.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_Property Data and Event Trigger\WPF_Property Data and Event Trigger\obj\Debug\WPF_Property Data and Event Trigger_MarkupCompile.lref
+D:\Dev\study\WPF_udemy_lesson\WPF_Property Data and Event Trigger\WPF_Property Data and Event Trigger\obj\Debug\MainWindow.baml
+D:\Dev\study\WPF_udemy_lesson\WPF_Property Data and Event Trigger\WPF_Property Data and Event Trigger\obj\Debug\WPF_Property Data and Event Trigger.g.resources
+D:\Dev\study\WPF_udemy_lesson\WPF_Property Data and Event Trigger\WPF_Property Data and Event Trigger\obj\Debug\WPF_Property_Data_and_Event_Trigger.Properties.Resources.resources
+D:\Dev\study\WPF_udemy_lesson\WPF_Property Data and Event Trigger\WPF_Property Data and Event Trigger\obj\Debug\WPF_Property Data and Event Trigger.csproj.GenerateResource.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_Property Data and Event Trigger\WPF_Property Data and Event Trigger\obj\Debug\WPF_Property Data and Event Trigger.csproj.CoreCompileInputs.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_Property Data and Event Trigger\WPF_Property Data and Event Trigger\obj\Debug\WPF_Property Data and Event Trigger.exe
+D:\Dev\study\WPF_udemy_lesson\WPF_Property Data and Event Trigger\WPF_Property Data and Event Trigger\obj\Debug\WPF_Property Data and Event Trigger.pdb

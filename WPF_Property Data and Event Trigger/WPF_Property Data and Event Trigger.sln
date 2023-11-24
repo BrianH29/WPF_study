@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Property Data and Event Trigger", "WPF_Property Data and Event Trigger\WPF_Property Data and Event Trigger.csproj", "{0B9C41A2-C8B9-4356-8206-B2C162FEBEDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B9C41A2-C8B9-4356-8206-B2C162FEBEDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B9C41A2-C8B9-4356-8206-B2C162FEBEDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B9C41A2-C8B9-4356-8206-B2C162FEBEDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B9C41A2-C8B9-4356-8206-B2C162FEBEDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B13BD80C-DE1D-481F-A9A8-C2BB3F72AE40}
+	EndGlobalSection
+EndGlobal

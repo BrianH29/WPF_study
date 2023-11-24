@@ -1,0 +1,17 @@
+D:\Dev\study\WPF_udemy_lesson\WPF_InvoiceManagement\WPF_InvoiceManagement\bin\Debug\WPF_InvoiceManagement.exe.config
+D:\Dev\study\WPF_udemy_lesson\WPF_InvoiceManagement\WPF_InvoiceManagement\bin\Debug\WPF_InvoiceManagement.exe
+D:\Dev\study\WPF_udemy_lesson\WPF_InvoiceManagement\WPF_InvoiceManagement\bin\Debug\WPF_InvoiceManagement.pdb
+D:\Dev\study\WPF_udemy_lesson\WPF_InvoiceManagement\WPF_InvoiceManagement\obj\Debug\WPF_InvoiceManagement.csproj.AssemblyReference.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_InvoiceManagement\WPF_InvoiceManagement\obj\Debug\LoginView.g.cs
+D:\Dev\study\WPF_udemy_lesson\WPF_InvoiceManagement\WPF_InvoiceManagement\obj\Debug\MainWindow.g.cs
+D:\Dev\study\WPF_udemy_lesson\WPF_InvoiceManagement\WPF_InvoiceManagement\obj\Debug\App.g.cs
+D:\Dev\study\WPF_udemy_lesson\WPF_InvoiceManagement\WPF_InvoiceManagement\obj\Debug\WPF_InvoiceManagement_MarkupCompile.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_InvoiceManagement\WPF_InvoiceManagement\obj\Debug\WPF_InvoiceManagement_MarkupCompile.lref
+D:\Dev\study\WPF_udemy_lesson\WPF_InvoiceManagement\WPF_InvoiceManagement\obj\Debug\LoginView.baml
+D:\Dev\study\WPF_udemy_lesson\WPF_InvoiceManagement\WPF_InvoiceManagement\obj\Debug\MainWindow.baml
+D:\Dev\study\WPF_udemy_lesson\WPF_InvoiceManagement\WPF_InvoiceManagement\obj\Debug\WPF_InvoiceManagement.g.resources
+D:\Dev\study\WPF_udemy_lesson\WPF_InvoiceManagement\WPF_InvoiceManagement\obj\Debug\WPF_InvoiceManagement.Properties.Resources.resources
+D:\Dev\study\WPF_udemy_lesson\WPF_InvoiceManagement\WPF_InvoiceManagement\obj\Debug\WPF_InvoiceManagement.csproj.GenerateResource.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_InvoiceManagement\WPF_InvoiceManagement\obj\Debug\WPF_InvoiceManagement.csproj.CoreCompileInputs.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_InvoiceManagement\WPF_InvoiceManagement\obj\Debug\WPF_InvoiceManagement.exe
+D:\Dev\study\WPF_udemy_lesson\WPF_InvoiceManagement\WPF_InvoiceManagement\obj\Debug\WPF_InvoiceManagement.pdb

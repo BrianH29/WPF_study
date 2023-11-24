@@ -1,0 +1,15 @@
+D:\Dev\study\WPF_udemy_lesson\WPF_ListItem\WPF_ListItem\bin\Debug\WPF_ListItem.exe.config
+D:\Dev\study\WPF_udemy_lesson\WPF_ListItem\WPF_ListItem\bin\Debug\WPF_ListItem.exe
+D:\Dev\study\WPF_udemy_lesson\WPF_ListItem\WPF_ListItem\bin\Debug\WPF_ListItem.pdb
+D:\Dev\study\WPF_udemy_lesson\WPF_ListItem\WPF_ListItem\obj\Debug\WPF_ListItem.csproj.AssemblyReference.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_ListItem\WPF_ListItem\obj\Debug\MainWindow.g.cs
+D:\Dev\study\WPF_udemy_lesson\WPF_ListItem\WPF_ListItem\obj\Debug\App.g.cs
+D:\Dev\study\WPF_udemy_lesson\WPF_ListItem\WPF_ListItem\obj\Debug\WPF_ListItem_MarkupCompile.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_ListItem\WPF_ListItem\obj\Debug\WPF_ListItem_MarkupCompile.lref
+D:\Dev\study\WPF_udemy_lesson\WPF_ListItem\WPF_ListItem\obj\Debug\MainWindow.baml
+D:\Dev\study\WPF_udemy_lesson\WPF_ListItem\WPF_ListItem\obj\Debug\WPF_ListItem.g.resources
+D:\Dev\study\WPF_udemy_lesson\WPF_ListItem\WPF_ListItem\obj\Debug\WPF_ListItem.Properties.Resources.resources
+D:\Dev\study\WPF_udemy_lesson\WPF_ListItem\WPF_ListItem\obj\Debug\WPF_ListItem.csproj.GenerateResource.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_ListItem\WPF_ListItem\obj\Debug\WPF_ListItem.csproj.CoreCompileInputs.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_ListItem\WPF_ListItem\obj\Debug\WPF_ListItem.exe
+D:\Dev\study\WPF_udemy_lesson\WPF_ListItem\WPF_ListItem\obj\Debug\WPF_ListItem.pdb

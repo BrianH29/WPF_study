@@ -1,0 +1,15 @@
+D:\Dev\study\WPF_udemy_lesson\WPF_TodoList\WPF_TodoList\bin\Debug\WPF_TodoList.exe.config
+D:\Dev\study\WPF_udemy_lesson\WPF_TodoList\WPF_TodoList\bin\Debug\WPF_TodoList.exe
+D:\Dev\study\WPF_udemy_lesson\WPF_TodoList\WPF_TodoList\bin\Debug\WPF_TodoList.pdb
+D:\Dev\study\WPF_udemy_lesson\WPF_TodoList\WPF_TodoList\obj\Debug\WPF_TodoList.csproj.AssemblyReference.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_TodoList\WPF_TodoList\obj\Debug\MainWindow.g.cs
+D:\Dev\study\WPF_udemy_lesson\WPF_TodoList\WPF_TodoList\obj\Debug\App.g.cs
+D:\Dev\study\WPF_udemy_lesson\WPF_TodoList\WPF_TodoList\obj\Debug\WPF_TodoList_MarkupCompile.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_TodoList\WPF_TodoList\obj\Debug\WPF_TodoList_MarkupCompile.lref
+D:\Dev\study\WPF_udemy_lesson\WPF_TodoList\WPF_TodoList\obj\Debug\MainWindow.baml
+D:\Dev\study\WPF_udemy_lesson\WPF_TodoList\WPF_TodoList\obj\Debug\WPF_TodoList.g.resources
+D:\Dev\study\WPF_udemy_lesson\WPF_TodoList\WPF_TodoList\obj\Debug\WPF_TodoList.Properties.Resources.resources
+D:\Dev\study\WPF_udemy_lesson\WPF_TodoList\WPF_TodoList\obj\Debug\WPF_TodoList.csproj.GenerateResource.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_TodoList\WPF_TodoList\obj\Debug\WPF_TodoList.csproj.CoreCompileInputs.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_TodoList\WPF_TodoList\obj\Debug\WPF_TodoList.exe
+D:\Dev\study\WPF_udemy_lesson\WPF_TodoList\WPF_TodoList\obj\Debug\WPF_TodoList.pdb

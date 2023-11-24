@@ -1,0 +1,15 @@
+D:\Dev\study\WPF_udemy_lesson\WPF_RadioButton\WPF_RadioButton\bin\Debug\WPF_RadioButton.exe.config
+D:\Dev\study\WPF_udemy_lesson\WPF_RadioButton\WPF_RadioButton\bin\Debug\WPF_RadioButton.exe
+D:\Dev\study\WPF_udemy_lesson\WPF_RadioButton\WPF_RadioButton\bin\Debug\WPF_RadioButton.pdb
+D:\Dev\study\WPF_udemy_lesson\WPF_RadioButton\WPF_RadioButton\obj\Debug\WPF_RadioButton.csproj.AssemblyReference.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_RadioButton\WPF_RadioButton\obj\Debug\MainWindow.g.cs
+D:\Dev\study\WPF_udemy_lesson\WPF_RadioButton\WPF_RadioButton\obj\Debug\App.g.cs
+D:\Dev\study\WPF_udemy_lesson\WPF_RadioButton\WPF_RadioButton\obj\Debug\WPF_RadioButton_MarkupCompile.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_RadioButton\WPF_RadioButton\obj\Debug\WPF_RadioButton_MarkupCompile.lref
+D:\Dev\study\WPF_udemy_lesson\WPF_RadioButton\WPF_RadioButton\obj\Debug\MainWindow.baml
+D:\Dev\study\WPF_udemy_lesson\WPF_RadioButton\WPF_RadioButton\obj\Debug\WPF_RadioButton.g.resources
+D:\Dev\study\WPF_udemy_lesson\WPF_RadioButton\WPF_RadioButton\obj\Debug\WPF_RadioButton.Properties.Resources.resources
+D:\Dev\study\WPF_udemy_lesson\WPF_RadioButton\WPF_RadioButton\obj\Debug\WPF_RadioButton.csproj.GenerateResource.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_RadioButton\WPF_RadioButton\obj\Debug\WPF_RadioButton.csproj.CoreCompileInputs.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_RadioButton\WPF_RadioButton\obj\Debug\WPF_RadioButton.exe
+D:\Dev\study\WPF_udemy_lesson\WPF_RadioButton\WPF_RadioButton\obj\Debug\WPF_RadioButton.pdb

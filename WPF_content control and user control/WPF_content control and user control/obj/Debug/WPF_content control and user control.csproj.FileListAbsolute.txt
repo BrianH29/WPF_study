@@ -1,0 +1,19 @@
+D:\Dev\study\WPF_udemy_lesson\WPF_content control and user control\WPF_content control and user control\bin\Debug\WPF_content control and user control.exe.config
+D:\Dev\study\WPF_udemy_lesson\WPF_content control and user control\WPF_content control and user control\bin\Debug\WPF_content control and user control.exe
+D:\Dev\study\WPF_udemy_lesson\WPF_content control and user control\WPF_content control and user control\bin\Debug\WPF_content control and user control.pdb
+D:\Dev\study\WPF_udemy_lesson\WPF_content control and user control\WPF_content control and user control\obj\Debug\WPF_content control and user control.csproj.AssemblyReference.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_content control and user control\WPF_content control and user control\obj\Debug\LoginView.g.cs
+D:\Dev\study\WPF_udemy_lesson\WPF_content control and user control\WPF_content control and user control\obj\Debug\MainWindow.g.cs
+D:\Dev\study\WPF_udemy_lesson\WPF_content control and user control\WPF_content control and user control\obj\Debug\App.g.cs
+D:\Dev\study\WPF_udemy_lesson\WPF_content control and user control\WPF_content control and user control\obj\Debug\WPF_content control and user control_MarkupCompile.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_content control and user control\WPF_content control and user control\obj\Debug\WPF_content control and user control_MarkupCompile.lref
+D:\Dev\study\WPF_udemy_lesson\WPF_content control and user control\WPF_content control and user control\obj\Debug\LoginView.baml
+D:\Dev\study\WPF_udemy_lesson\WPF_content control and user control\WPF_content control and user control\obj\Debug\MainWindow.baml
+D:\Dev\study\WPF_udemy_lesson\WPF_content control and user control\WPF_content control and user control\obj\Debug\WPF_content control and user control.g.resources
+D:\Dev\study\WPF_udemy_lesson\WPF_content control and user control\WPF_content control and user control\obj\Debug\WPF_content_control_and_user_control.Properties.Resources.resources
+D:\Dev\study\WPF_udemy_lesson\WPF_content control and user control\WPF_content control and user control\obj\Debug\WPF_content control and user control.csproj.GenerateResource.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_content control and user control\WPF_content control and user control\obj\Debug\WPF_content control and user control.csproj.CoreCompileInputs.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_content control and user control\WPF_content control and user control\obj\Debug\WPF_content control and user control.exe
+D:\Dev\study\WPF_udemy_lesson\WPF_content control and user control\WPF_content control and user control\obj\Debug\WPF_content control and user control.pdb
+D:\Dev\study\WPF_udemy_lesson\WPF_content control and user control\WPF_content control and user control\obj\Debug\InvoiceView.g.cs
+D:\Dev\study\WPF_udemy_lesson\WPF_content control and user control\WPF_content control and user control\obj\Debug\InvoiceView.baml

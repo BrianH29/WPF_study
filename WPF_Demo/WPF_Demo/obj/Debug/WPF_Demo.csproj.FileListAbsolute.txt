@@ -1,0 +1,15 @@
+D:\Dev\study\WPF_udemy_lesson\WPF_Demo\WPF_Demo\bin\Debug\WPF_Demo.exe.config
+D:\Dev\study\WPF_udemy_lesson\WPF_Demo\WPF_Demo\bin\Debug\WPF_Demo.exe
+D:\Dev\study\WPF_udemy_lesson\WPF_Demo\WPF_Demo\bin\Debug\WPF_Demo.pdb
+D:\Dev\study\WPF_udemy_lesson\WPF_Demo\WPF_Demo\obj\Debug\WPF_Demo.csproj.AssemblyReference.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_Demo\WPF_Demo\obj\Debug\MainWindow.g.cs
+D:\Dev\study\WPF_udemy_lesson\WPF_Demo\WPF_Demo\obj\Debug\App.g.cs
+D:\Dev\study\WPF_udemy_lesson\WPF_Demo\WPF_Demo\obj\Debug\WPF_Demo_MarkupCompile.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_Demo\WPF_Demo\obj\Debug\WPF_Demo_MarkupCompile.lref
+D:\Dev\study\WPF_udemy_lesson\WPF_Demo\WPF_Demo\obj\Debug\MainWindow.baml
+D:\Dev\study\WPF_udemy_lesson\WPF_Demo\WPF_Demo\obj\Debug\WPF_Demo.g.resources
+D:\Dev\study\WPF_udemy_lesson\WPF_Demo\WPF_Demo\obj\Debug\WPF_Demo.Properties.Resources.resources
+D:\Dev\study\WPF_udemy_lesson\WPF_Demo\WPF_Demo\obj\Debug\WPF_Demo.csproj.GenerateResource.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_Demo\WPF_Demo\obj\Debug\WPF_Demo.csproj.CoreCompileInputs.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_Demo\WPF_Demo\obj\Debug\WPF_Demo.exe
+D:\Dev\study\WPF_udemy_lesson\WPF_Demo\WPF_Demo\obj\Debug\WPF_Demo.pdb

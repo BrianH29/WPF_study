@@ -1,0 +1,26 @@
+﻿<Window x:Class="WPF_Demo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Demo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="5" x:Name="myGrid">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="5" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="30" />
+        </Grid.RowDefinitions>
+        <TextBox Grid.Column="1" Grid.Row="0" Text="Test of App"/>
+        <TextBox Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="3" Text="Simple Test Simple Test Simple Test Simple Test Simple Test Simple Test Simple Test"/>
+        <Button Grid.Column="1" Grid.Row="3" Content="A"/>
+    </Grid>
+</Window>

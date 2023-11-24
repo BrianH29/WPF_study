@@ -1,0 +1,15 @@
+D:\Dev\study\WPF_udemy_lesson\WPF_Checkbox\WPF_Checkbox\bin\Debug\WPF_Checkbox.exe.config
+D:\Dev\study\WPF_udemy_lesson\WPF_Checkbox\WPF_Checkbox\bin\Debug\WPF_Checkbox.exe
+D:\Dev\study\WPF_udemy_lesson\WPF_Checkbox\WPF_Checkbox\bin\Debug\WPF_Checkbox.pdb
+D:\Dev\study\WPF_udemy_lesson\WPF_Checkbox\WPF_Checkbox\obj\Debug\WPF_Checkbox.csproj.AssemblyReference.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_Checkbox\WPF_Checkbox\obj\Debug\MainWindow.g.cs
+D:\Dev\study\WPF_udemy_lesson\WPF_Checkbox\WPF_Checkbox\obj\Debug\App.g.cs
+D:\Dev\study\WPF_udemy_lesson\WPF_Checkbox\WPF_Checkbox\obj\Debug\WPF_Checkbox_MarkupCompile.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_Checkbox\WPF_Checkbox\obj\Debug\WPF_Checkbox_MarkupCompile.lref
+D:\Dev\study\WPF_udemy_lesson\WPF_Checkbox\WPF_Checkbox\obj\Debug\MainWindow.baml
+D:\Dev\study\WPF_udemy_lesson\WPF_Checkbox\WPF_Checkbox\obj\Debug\WPF_Checkbox.g.resources
+D:\Dev\study\WPF_udemy_lesson\WPF_Checkbox\WPF_Checkbox\obj\Debug\WPF_Checkbox.Properties.Resources.resources
+D:\Dev\study\WPF_udemy_lesson\WPF_Checkbox\WPF_Checkbox\obj\Debug\WPF_Checkbox.csproj.GenerateResource.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_Checkbox\WPF_Checkbox\obj\Debug\WPF_Checkbox.csproj.CoreCompileInputs.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_Checkbox\WPF_Checkbox\obj\Debug\WPF_Checkbox.exe
+D:\Dev\study\WPF_udemy_lesson\WPF_Checkbox\WPF_Checkbox\obj\Debug\WPF_Checkbox.pdb

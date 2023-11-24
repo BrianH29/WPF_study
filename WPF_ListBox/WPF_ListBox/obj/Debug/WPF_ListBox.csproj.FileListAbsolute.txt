@@ -1,0 +1,15 @@
+D:\Dev\study\WPF_udemy_lesson\WPF_ListBox\WPF_ListBox\bin\Debug\WPF_ListBox.exe.config
+D:\Dev\study\WPF_udemy_lesson\WPF_ListBox\WPF_ListBox\bin\Debug\WPF_ListBox.exe
+D:\Dev\study\WPF_udemy_lesson\WPF_ListBox\WPF_ListBox\bin\Debug\WPF_ListBox.pdb
+D:\Dev\study\WPF_udemy_lesson\WPF_ListBox\WPF_ListBox\obj\Debug\WPF_ListBox.csproj.AssemblyReference.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_ListBox\WPF_ListBox\obj\Debug\MainWindow.g.cs
+D:\Dev\study\WPF_udemy_lesson\WPF_ListBox\WPF_ListBox\obj\Debug\App.g.cs
+D:\Dev\study\WPF_udemy_lesson\WPF_ListBox\WPF_ListBox\obj\Debug\WPF_ListBox_MarkupCompile.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_ListBox\WPF_ListBox\obj\Debug\WPF_ListBox_MarkupCompile.lref
+D:\Dev\study\WPF_udemy_lesson\WPF_ListBox\WPF_ListBox\obj\Debug\MainWindow.baml
+D:\Dev\study\WPF_udemy_lesson\WPF_ListBox\WPF_ListBox\obj\Debug\WPF_ListBox.g.resources
+D:\Dev\study\WPF_udemy_lesson\WPF_ListBox\WPF_ListBox\obj\Debug\WPF_ListBox.Properties.Resources.resources
+D:\Dev\study\WPF_udemy_lesson\WPF_ListBox\WPF_ListBox\obj\Debug\WPF_ListBox.csproj.GenerateResource.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_ListBox\WPF_ListBox\obj\Debug\WPF_ListBox.csproj.CoreCompileInputs.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_ListBox\WPF_ListBox\obj\Debug\WPF_ListBox.exe
+D:\Dev\study\WPF_udemy_lesson\WPF_ListBox\WPF_ListBox\obj\Debug\WPF_ListBox.pdb

@@ -1,0 +1,15 @@
+D:\Dev\study\WPF_udemy_lesson\WPF_Combobox\WPF_Combobox\bin\Debug\WPF_Combobox.exe.config
+D:\Dev\study\WPF_udemy_lesson\WPF_Combobox\WPF_Combobox\bin\Debug\WPF_Combobox.exe
+D:\Dev\study\WPF_udemy_lesson\WPF_Combobox\WPF_Combobox\bin\Debug\WPF_Combobox.pdb
+D:\Dev\study\WPF_udemy_lesson\WPF_Combobox\WPF_Combobox\obj\Debug\WPF_Combobox.csproj.AssemblyReference.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_Combobox\WPF_Combobox\obj\Debug\MainWindow.g.cs
+D:\Dev\study\WPF_udemy_lesson\WPF_Combobox\WPF_Combobox\obj\Debug\App.g.cs
+D:\Dev\study\WPF_udemy_lesson\WPF_Combobox\WPF_Combobox\obj\Debug\WPF_Combobox_MarkupCompile.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_Combobox\WPF_Combobox\obj\Debug\WPF_Combobox_MarkupCompile.lref
+D:\Dev\study\WPF_udemy_lesson\WPF_Combobox\WPF_Combobox\obj\Debug\MainWindow.baml
+D:\Dev\study\WPF_udemy_lesson\WPF_Combobox\WPF_Combobox\obj\Debug\WPF_Combobox.g.resources
+D:\Dev\study\WPF_udemy_lesson\WPF_Combobox\WPF_Combobox\obj\Debug\WPF_Combobox.Properties.Resources.resources
+D:\Dev\study\WPF_udemy_lesson\WPF_Combobox\WPF_Combobox\obj\Debug\WPF_Combobox.csproj.GenerateResource.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_Combobox\WPF_Combobox\obj\Debug\WPF_Combobox.csproj.CoreCompileInputs.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_Combobox\WPF_Combobox\obj\Debug\WPF_Combobox.exe
+D:\Dev\study\WPF_udemy_lesson\WPF_Combobox\WPF_Combobox\obj\Debug\WPF_Combobox.pdb

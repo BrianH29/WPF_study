@@ -31,6 +31,6 @@
                 </DataTemplate>
             </ListBox.ItemTemplate>
         </ListBox>
-        <Button Grid.Column="1" Click="Button_Click">Selected</Button>
+        <Button Grid.Column="1" Click="">Selected</Button>
     </Grid>
 </Window>

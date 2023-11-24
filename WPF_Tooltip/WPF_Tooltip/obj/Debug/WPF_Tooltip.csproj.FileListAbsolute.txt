@@ -1,0 +1,15 @@
+D:\Dev\study\WPF_udemy_lesson\WPF_Tooltip\WPF_Tooltip\bin\Debug\WPF_Tooltip.exe.config
+D:\Dev\study\WPF_udemy_lesson\WPF_Tooltip\WPF_Tooltip\bin\Debug\WPF_Tooltip.exe
+D:\Dev\study\WPF_udemy_lesson\WPF_Tooltip\WPF_Tooltip\bin\Debug\WPF_Tooltip.pdb
+D:\Dev\study\WPF_udemy_lesson\WPF_Tooltip\WPF_Tooltip\obj\Debug\WPF_Tooltip.csproj.AssemblyReference.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_Tooltip\WPF_Tooltip\obj\Debug\MainWindow.g.cs
+D:\Dev\study\WPF_udemy_lesson\WPF_Tooltip\WPF_Tooltip\obj\Debug\App.g.cs
+D:\Dev\study\WPF_udemy_lesson\WPF_Tooltip\WPF_Tooltip\obj\Debug\WPF_Tooltip_MarkupCompile.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_Tooltip\WPF_Tooltip\obj\Debug\WPF_Tooltip_MarkupCompile.lref
+D:\Dev\study\WPF_udemy_lesson\WPF_Tooltip\WPF_Tooltip\obj\Debug\MainWindow.baml
+D:\Dev\study\WPF_udemy_lesson\WPF_Tooltip\WPF_Tooltip\obj\Debug\WPF_Tooltip.g.resources
+D:\Dev\study\WPF_udemy_lesson\WPF_Tooltip\WPF_Tooltip\obj\Debug\WPF_Tooltip.Properties.Resources.resources
+D:\Dev\study\WPF_udemy_lesson\WPF_Tooltip\WPF_Tooltip\obj\Debug\WPF_Tooltip.csproj.GenerateResource.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_Tooltip\WPF_Tooltip\obj\Debug\WPF_Tooltip.csproj.CoreCompileInputs.cache
+D:\Dev\study\WPF_udemy_lesson\WPF_Tooltip\WPF_Tooltip\obj\Debug\WPF_Tooltip.exe
+D:\Dev\study\WPF_udemy_lesson\WPF_Tooltip\WPF_Tooltip\obj\Debug\WPF_Tooltip.pdb
